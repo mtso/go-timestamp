@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/mtso/go-timestamp",
+	"GoVersion": "go1.2",
+	"GodepVersion": "v79",
+	"Deps": []
+}
